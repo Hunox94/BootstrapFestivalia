@@ -1,0 +1,24 @@
+body { background-image: linear-gradient(to right, #d1e307, #dcd500, #e5c700, #ebb800, #f0aa00, #fa951e, #ff8033, #ff6b45, #ff4c6c, #ff379a, #ec42cc, #b05ffb);}
+.navbar-dark .navbar-nav .nav-link  {   color: #ffffff;}
+
+
+.event-image-container {   width: 400px;   height: 400px; }
+
+.accordion-body {
+    color: #fff;
+  }
+  
+  .table table-bordered table-stripe{
+   
+    background-image: linear-gradient(to right bottom, #d336a6, #d336ae, #d337b6, #d239be, #d03bc6, #be52da, #a865eb, #8e75f8, #508eff, #00a1fe, #00aff1, #1fb9e0) !important;
+  }
+
+  .card-header {
+    text-align: center;
+  }
+  .card-title{
+    text-align: center;
+  }
+  .card-text{
+    text-align: center;
+  }
